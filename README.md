@@ -29,3 +29,6 @@ The Pac-Man projects are written in pure Python 2.7 and do not depend on any pac
 **P6: Contest**
 - Students create strategies for a team of two agents to play a multi-player capture-the-flag variant of Pacman. 
 
+## Credits
+
+The projects were developed by John DeNero, Dan Klein, Pieter Abbeel, and [many others](http://ai.berkeley.edu/contact.html). 
