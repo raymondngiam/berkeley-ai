@@ -1,6 +1,6 @@
 # berkeley-ai
 
-Projects in UC Berkeley CS188 Intro to Artificial Intelligence (Spring 2014 version)
+Projects in UC Berkeley's [CS188 Intro to Artificial Intelligence](http://ai.berkeley.edu) (Spring 2014 version)
 
 ## Software Requirements
 
